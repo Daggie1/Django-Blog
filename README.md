@@ -18,7 +18,7 @@ In order to have the the system running in your local machine follow the followi
 <h2>ScreenShots</h2> </br>
 
 
-   <h3>Home</h3></br><img src="../master/Android_Blog/media/screenshots/main.png?raw=true"  /> </br>
+   <h3>Home</h3></br><img src="../master/Android_Blog/media/screenshots/blog_main.png?raw=true"  /> </br>
     <h3>Post Details</h3></br><img src="../master/Android_Blog/media/screenshots/post_detail.png?raw=true"  /> </br>
      <h3>User Account</h3></br><img src="../master/Android_Blog/media/screenshots/account.png?raw=true"  /> </br>
      
